@@ -1,4 +1,5 @@
 "# Casting-Image-Classification-using-CNN" 
+
 Casting Image classification
 1.	Introduction:
 Casting defect detection is crucial in the manufacturing industry to ensure the quality of products. Manual inspection processes are time-consuming and prone to errors. Hence, automating this process using deep learning classification models can significantly improve efficiency and accuracy. In this report, we discuss the implementation of such a model for detecting defects in casting products.
